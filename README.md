@@ -32,8 +32,6 @@ This project is a simple and interactive implementation of the classic **Rock, P
 
 **[https://abdulwakeel12.github.io/rock-paper-scissors-game/](https://abdulwakeel12.github.io/rock-paper-scissors-game/)**
 
-> _Update the link after deployment if necessary._
-
 ---
 
 ## 📂 Folder Structure
