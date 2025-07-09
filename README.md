@@ -31,24 +31,3 @@ This project is a simple and interactive implementation of the classic **Rock, P
 ## 🔗 Live Demo
 
 **[https://abdulwakeel12.github.io/rock-paper-scissors-game/](https://abdulwakeel12.github.io/rock-paper-scissors-game/)**
-
----
-
-## 📂 Folder Structure
-
-```
-rock-paper-scissors-game/
-├── index.html
-├── style.css
-└── script.js
-```
-
----
-
-## 📷 Screenshots
-
-_Add screenshots by placing them in an `images/` folder and referencing them like:_
-
-```md
-![Game Screenshot](images/screenshot.png)
-```
